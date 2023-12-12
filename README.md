@@ -1,42 +1,43 @@
-# Music model
+# La Vida
 
-Music model developed using Pygame, Tkinter, Mutagen and Platform.
+La Vida  dikembangkan menggunakan Pygame, Tkinter, Mutagen, dan Platform.
 
 <p align="center">
       <img src="https://i.ibb.co/n8gPkwk/2023-09-27-00-38-44.png">
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Python_Version-3.10-8A2BE2" alt="Python Version">
-   <img src="https://img.shields.io/badge/Version-v1.0-blue" alt="Version">
-   <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
+   <img src="https://img.shields.io/badge/Versi_Python-3.12-8A2BE2" alt="Versi Python">
+   <img src="https://img.shields.io/badge/Versi-v1.0-biru" alt="Versi">
+   <img src="https://img.shields.io/badge/Lisensi-MIT-sukses" alt="Lisensi">
 </p>
 
-# Features
+# Fitur
 
-1. Select songs
-2. Previous song
-3. Next song
-4. Pause / Unpause song
-5. Music time slider
-6. Volume slider
-7. Mute / Unmute button
-8. User-friendly interface
+1. Tambahkan lagu dengan file
+2. Tambahkan lagu dengan folder
+3. Lagu sebelumnya
+4. Lagu berikutnya
+5. Jeda
+6. Pengatur volume
+7. Senyap
+8. Ulang
+9. Putar
+10. Hapus lagu
+11. Cari
 
-# Supported music files
+# Dukungan file musik
 
 1. \*.mp3
 2. \*.wav
 3. \*.flac
 
-# Requirements
+# Persyaratan
 
-```
 pygame
 mutagen
-```
 
-For installing requirements: `pip install -r requirements.txt`
+Untuk menginstal persyaratan: `pip install -r requirements.txt`
 
 # Run
 
