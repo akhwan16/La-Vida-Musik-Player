@@ -6,7 +6,7 @@ La Vida merupakan sebuah aplikasi pemutar musik yang dibuat dengan menggunakan P
 
 <p align="center">
       <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/7846781e-2bd0-4367-a351-7659e1ba0f3f" >
-">
+      <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/7846781e-2bd0-4367-a351-7659e1ba0f3f" >
 </p>
 
 <p align="center">
