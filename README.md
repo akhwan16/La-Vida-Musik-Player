@@ -38,8 +38,22 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 # UML
 
 # Class 
+![Diagram kelas](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b223ee5a-00d3-4ea8-9aab-50a53e5ccb3b)
 
 # Sequence
+
+1. Tambahkan lagu dengan file ![Fitur import file](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/7ba4d91c-5bf9-49b2-b7ee-318380bc0e71)
+
+2. Tambahkan lagu dengan folder
+3. Lagu sebelumnya
+4. Lagu berikutnya
+5. Jeda
+6. Pengatur volume
+7. Senyap
+8. Ulang
+9. Putar
+10. Hapus lagu
+11. Cari
 
 # Activity
 
