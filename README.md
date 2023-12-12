@@ -67,28 +67,39 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 
 
 # Activity
-1. Tambahkan lagu dengan file![File activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/647dad11-5232-44e1-b96c-bfc2a0647aed)
+1. Tambahkan lagu dengan file
+   ![File activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/647dad11-5232-44e1-b96c-bfc2a0647aed)
 
-2. Tambahkan lagu dengan folder![Folder activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/d290e5c5-2ff3-4459-8835-56706850fb51)
+2. Tambahkan lagu dengan folder
+   ![Folder activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/d290e5c5-2ff3-4459-8835-56706850fb51)
 
-3. Lagu sebelumnya![Previous activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/869d9877-955e-47d7-ad68-beb7b417e532)
+3. Lagu sebelumnya
+   ![Previous activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/869d9877-955e-47d7-ad68-beb7b417e532)
 
-4. Lagu berikutnya![Next  activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/91dda172-7303-4039-9f14-101f83bd4bac)
+4. Lagu berikutnya
+   ![Next  activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/91dda172-7303-4039-9f14-101f83bd4bac)
 
-5. Jeda![Stop activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/0676bf22-3cd2-4d39-852d-05623b713d97)
+5. Jeda
+   ![Stop activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/0676bf22-3cd2-4d39-852d-05623b713d97)
 
-6. Pengatur volume![Volume activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/489aa428-e239-47db-aacb-afe6d6131c00)
+6. Pengatur volume
+   ![Volume activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/489aa428-e239-47db-aacb-afe6d6131c00)
 
-7. Senyap![Mute cativity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/c02ce62e-1fe9-40e1-bdca-f1d66605bcb8)
+7. Senyap
+   ![Mute cativity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/c02ce62e-1fe9-40e1-bdca-f1d66605bcb8)
 
 
-8. Ulang![Repeat activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/f019b877-fe26-4b9d-b037-bff27248dc60)
+8. Ulang
+    ![Repeat activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/f019b877-fe26-4b9d-b037-bff27248dc60)
 
-9. Putar![Uploading Play activity.png…]()
+9. Putar
+   ![Play activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/cd7ff5f1-88ac-4da3-b8ca-69eb6212e521)
 
-10. Hapus lagu![Hapus activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/bd5b131d-6e44-4f1f-b3d3-73763e649f3e)
+10. Hapus lagu
+    ![Hapus activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/bd5b131d-6e44-4f1f-b3d3-73763e649f3e)
 
-11. Cari![Search activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/dea26558-cb92-4d1d-bc18-d63a3c67053d)
+11. Cari
+    ![Search activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/dea26558-cb92-4d1d-bc18-d63a3c67053d)
 
 
     
