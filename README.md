@@ -85,7 +85,7 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
     ![Fitur Search](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/41923629-83ec-4e3d-9030-6e80e1ac3b18)
 
 
-Tentu, berikut adalah tata letak yang disusun dengan jarak yang sesuai antara gambar dan teks di bawahnya:
+
 
 # Diagram Activity:
 
