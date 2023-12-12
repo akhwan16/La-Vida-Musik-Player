@@ -45,7 +45,6 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 2. \*.wav
 3. \*.flac
 
-# UML
 
 # Diagram Class 
 ![Diagram kelas](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b223ee5a-00d3-4ea8-9aab-50a53e5ccb3b)
