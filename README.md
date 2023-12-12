@@ -1,9 +1,9 @@
 # La Vida
 
-La Vida  dikembangkan menggunakan Pygame, Tkinter, Mutagen, dan Platform.
+La Vida merupakan sebuah aplikasi pemutar musik yang dibuat dengan menggunakan Pygame, Tkinter, dan Mutagen. Tim pengembangnya terdiri dari Bagus Anugrah Hadi Kusumo (NIM: 5302420059), Zatto Palintino (NIM: 5302422058), Farid Akhwan (NIM: 5302422066), Haikal Rijaldi H.P (NIM: 5302422067), dan Muhammad Yahya (NIM: 5302422076). Aplikasi ini telah menerapkan konsep MVC secara sederhana dalam pembuatannya.
 
 <p align="center">
-      <img src="https://i.ibb.co/n8gPkwk/2023-09-27-00-38-44.png">
+      <img src="">
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@ La Vida  dikembangkan menggunakan Pygame, Tkinter, Mutagen, dan Platform.
 </p>
 
 # Fitur
+Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu : 
 
 1. Tambahkan lagu dengan file
 2. Tambahkan lagu dengan folder
@@ -26,21 +27,30 @@ La Vida  dikembangkan menggunakan Pygame, Tkinter, Mutagen, dan Platform.
 10. Hapus lagu
 11. Cari
 
-# Dukungan file musik
+# File musik yang didukung
 
 1. \*.mp3
 2. \*.wav
 3. \*.flac
 
-# Persyaratan
+# UML
+
+# Class 
+
+# Sequence
+
+# Activity
+
+# Use case
+
+
+
+
+
+# Modul yang digunakan 
 
 pygame
 mutagen
 
 Untuk menginstal persyaratan: `pip install -r requirements.txt`
 
-# Run
-
-```
-python main.py
-```
