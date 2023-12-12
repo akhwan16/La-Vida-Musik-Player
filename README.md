@@ -1,17 +1,16 @@
-# La Vida
+# La Vida - Aplikasi Pemutar Musik
 <p align="center">
       <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/715ee360-69a2-4074-980c-1be7954b3b10" >
 </p>
-La Vida merupakan sebuah aplikasi pemutar musik yang dibuat dengan menggunakan Pygame, Tkinter, dan Mutagen. 
 
-Tim pengembangnya terdiri dari
-Bagus Anugrah Hadi Kusumo (NIM: 5302420059),
-Zatto Palintino (NIM: 5302422058),
-Farid Akhwan (NIM: 5302422066), 
-Haikal Rijaldi H.P (NIM: 5302422067),
-dan Muhammad Yahya (NIM: 5302422076). 
+La Vida merupakan aplikasi pemutar musik yang dibuat menggunakan Pygame, Tkinter, dan Mutagen. Aplikasi ini dikembangkan dengan konsep MVC secara sederhana.
 
-Aplikasi ini telah menerapkan konsep MVC secara sederhana dalam pembuatannya.
+# Tim Pengembang
+- **Bagus Anugrah Hadi Kusumo** (NIM: 5302420059)
+- **Zatto Palintino** (NIM: 5302422058)
+- **Farid Akhwan** (NIM: 5302422066)
+- **Haikal Rijaldi H.P** (NIM: 5302422067)
+- **Muhammad Yahya** (NIM: 5302422076)
 
 # Tampilan aplikasi
 
