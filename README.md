@@ -52,7 +52,7 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 
 5. Jeda![Fitur Stop](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/be5edbb6-a2fd-4036-93f1-49808b2d138a)
 
-6. Pengatur volume![Fitur Volume](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b56103cd-5b02-4db0-8899-16372e8105d9)
+6. Pengatur volume![Volume activity](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/3dc69f10-c579-4405-9ef1-ad8e6d0ce996)
 
 7. Senyap![Fitur Mute](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b50c019e-4629-4b78-b529-45f7ec4c994c)
 
