@@ -40,79 +40,36 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 # Class 
 ![Diagram kelas](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b223ee5a-00d3-4ea8-9aab-50a53e5ccb3b)
 
-<!DOCTYPE html>
-<html lang="en">
+Terima kasih atas informasinya! Saya akan merapikan dan mengorganisir urutan fitur-fitur tersebut agar tidak tumpang tindih di GitHub:
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diagram Sequence La Vida</title>
-</head>
+### Sequence:
+Maaf atas kebingungan tersebut. Nampaknya ada kesalahan dalam penanganan tautan gambar di markdown. Saya akan mencoba menyusunnya kembali:
 
-<body>
+# Sequence:
 
-    <h1>Diagram Sequence La Vida</h1>
+1. **Tambahkan lagu dengan file:** [Fitur Import File](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/7ba4d91c-5bf9-49b2-b7ee-318380bc0e71)
 
-    <ol>
-        <li>
-            <h2>Tambahkan lagu dengan file</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/7ba4d91c-5bf9-49b2-b7ee-318380bc0e71" alt="Fitur import file">
-        </li>
+2. **Tambahkan lagu dengan folder:** [Fitur Import Folder](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/9cf5bcfe-c40d-4491-9aae-425d810622a2)
 
-        <li>
-            <h2>Tambahkan lagu dengan folder</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/9cf5bcfe-c40d-4491-9aae-425d810622a2" alt="Fitur import folder">
-        </li>
+3. **Lagu sebelumnya:** [Fitur Previous](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/2fc0a664-c1c1-444a-87b1-0d531c6eb021)
 
-        <li>
-            <h2>Lagu sebelumnya</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/2fc0a664-c1c1-444a-87b1-0d531c6eb021" alt="Fitur Previous">
-        </li>
+4. **Lagu berikutnya:** [Fitur Next](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/cf1d8a50-cddc-4c7d-af6c-17b7c415e3a2)
 
-        <li>
-            <h2>Lagu berikutnya</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/cf1d8a50-cddc-4c7d-af6c-17b7c415e3a2" alt="Fitur next">
-        </li>
+5. **Jeda:** [Fitur Stop](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/be5edbb6-a2fd-4036-93f1-49808b2d138a)
 
-        <li>
-            <h2>Jeda</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/be5edbb6-a2fd-4036-93f1-49808b2d138a" alt="Fitur Stop">
-        </li>
+6. **Pengatur volume:** [Fitur Volume](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/0f7a868a-d207-4b02-8cb8-455c2bf83f2e)
 
-        <li>
-            <h2>Pengatur volume</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/0f7a868a-d207-4b02-8cb8-455c2bf83f2e" alt="Fitur Volume">
-        </li>
+7. **Senyap:** [Fitur Mute](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b50c019e-4629-4b78-b529-45f7ec4c994c)
 
-        <li>
-            <h2>Senyap</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/b50c019e-4629-4b78-b529-45f7ec4c994c" alt="Fitur Mute">
-        </li>
+8. **Ulang:** [Fitur Repeat](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/d39cd718-563b-4244-a0b7-934f5427e08f)
 
-        <li>
-            <h2>Ulang</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/d39cd718-563b-4244-a0b7-934f5427e08f" alt="Fitur Repeat">
-        </li>
+9. **Putar:** [Fitur Play](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/314c39ac-118c-44f4-ad75-9a62c7070d54)
 
-        <li>
-            <h2>Putar</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/314c39ac-118c-44f4-ad75-9a62c7070d54" alt="Fitur Play">
-        </li>
+10. **Hapus lagu:** [Fitur Remove](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/ce804755-4451-46ce-adfc-28463f9329cd)
 
-        <li>
-            <h2>Hapus lagu</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/ce804755-4451-46ce-adfc-28463f9329cd" alt="Fitur Remove">
-        </li>
+11. **Cari:** [Fitur Search](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/41923629-83ec-4e3d-9030-6e80e1ac3b18)
 
-        <li>
-            <h2>Cari</h2>
-            <img src="https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/41923629-83ec-4e3d-9030-6e80e1ac3b18" alt="Fitur Search">
-        </li>
-    </ol>
-
-</body>
-
-</html>
+Sekali lagi, jika ada kebingungan atau hal lain yang perlu diubah, beri tahu saya.
 
 # Aktivitas
 
