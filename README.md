@@ -88,6 +88,11 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 
 
 # Diagram Activity:
+ **Aktivitas pengguna dalam aplikasi secara menyeluruh**  
+![main activity png](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/94ed8e6e-4f6c-41e5-900e-46e94f074ec0)
+
+
+ **Aktivitas pengguna dalam aplikasi per bagian**  
 
 1. **Pengguna Menambahkan Lagu dengan File**  
    ![Tambahkan Lagu dengan File](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/647dad11-5232-44e1-b96c-bfc2a0647aed)
