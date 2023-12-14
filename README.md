@@ -122,9 +122,10 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 11. **Cari**  
     ![Cari](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/dea26558-cb92-4d1d-bc18-d63a3c67053d)
 
-Semoga ini memenuhi harapan Anda. Jika masih ada hal yang perlu diperbaiki atau dimodifikasi, beri tahu saya.
+
 # Diagram Use case
-![Use Case La Vida Fix](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/19762564-ef81-4bbe-9607-97fdeb0cbd37)
+![usecase lavida](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/4ab55989-864b-4d51-9e80-eef7632afdac)
+
 
 
 # Modul yang digunakan 
