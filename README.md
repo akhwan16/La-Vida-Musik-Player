@@ -89,37 +89,37 @@ Dalam aplikasi ini, kami menyematkan beberapa fitur didalamnya yaitu :
 
 # Diagram Activity:
 
-1. **Tambahkan Lagu dengan File**  
+1. **Pengguna Menambahkan Lagu dengan File**  
    ![Tambahkan Lagu dengan File](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/647dad11-5232-44e1-b96c-bfc2a0647aed)
 
-2. **Tambahkan Lagu dengan Folder**  
+2. **Pengguna Menambahkan Lagu dengan Folder**  
    ![Tambahkan Lagu dengan Folder](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/d290e5c5-2ff3-4459-8835-56706850fb51)
 
-3. **Lagu Sebelumnya**  
+3. **Pengguna Memutar Lagu Sebelumnya**  
    ![Lagu Sebelumnya](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/869d9877-955e-47d7-ad68-beb7b417e532)
 
-4. **Lagu Berikutnya**  
+4. **Pengguna Memutar Lagu Berikutnya**  
    ![Lagu Berikutnya](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/91dda172-7303-4039-9f14-101f83bd4bac)
 
-5. **Jeda**  
+5. **Pengguna Menjeda yang Sedang Diputar**  
    ![Jeda](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/0676bf22-3cd2-4d39-852d-05623b713d97)
 
-6. **Pengatur Volume**  
+6. **Pengguna Mengatur Volume**  
    ![Pengatur Volume](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/489aa428-e239-47db-aacb-afe6d6131c00)
 
-7. **Senyap**  
+7. **Pengguna Mengaktifkan Mode Senyap**  
    ![Senyap](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/c02ce62e-1fe9-40e1-bdca-f1d66605bcb8)
 
-8. **Ulang**  
+8. **Pengguna Mngulang Lagu yang Sedang Diputar**  
    ![Ulang](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/f019b877-fe26-4b9d-b037-bff27248dc60)
 
-9. **Putar**  
+9. **Pengguna Memutar Lagu**  
    ![Putar](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/cd7ff5f1-88ac-4da3-b8ca-69eb6212e521)
 
-10. **Hapus Lagu**  
+10. **Pengguna Menghapus Lagu**  
     ![Hapus Lagu](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/bd5b131d-6e44-4f1f-b3d3-73763e649f3e)
 
-11. **Cari**  
+11. **Pengguna Mencari**  
     ![Cari](https://github.com/akhwan16/La-Vida-Musik-Player/assets/64369472/dea26558-cb92-4d1d-bc18-d63a3c67053d)
 
 
